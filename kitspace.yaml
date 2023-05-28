@@ -1,0 +1,8 @@
+bom: hw/sch_pcb/LMR1405001.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/LMR1405001.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/LMR1405001
+summary: '40 V input high-power step-down converter. '
