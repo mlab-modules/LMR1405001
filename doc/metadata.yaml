@@ -1,5 +1,6 @@
 description: '40 V input high-power step-down converter. '
 github_branch: LMR1405001A
+github_description: '40 V input high-power step-down converter. '
 github_repo: LMR1405001
 github_url: https://github.com/mlab-modules/LMR1405001
 homepage: false
@@ -9,4 +10,4 @@ status: 0
 tags:
 - dcdc-converter
 title: LMR1405001
-updated: '2023-09-16T16:33:52.556960+00:00'
+updated: '2023-09-18T00:59:04.966558+00:00'
