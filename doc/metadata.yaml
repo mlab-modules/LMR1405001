@@ -5,13 +5,13 @@ github_repo: LMR1405001
 github_url: https://github.com/mlab-modules/LMR1405001
 homepage: false
 images:
-- doc/gen/img/LMR1405001-top.png
 - doc/gen/img/LMR1405001-bottom.png
-- doc/gen/LMR1405001-schematic.svg
-- doc/gen/img/LMR1405001-top.svg
-- doc/gen/img/LMR1405001-bottom.svg
+- doc/gen/img/LMR1405001-top.png
 - hw/cam_profi/assembly/LMR1405001-assembly_page_01.svg
 - hw/cam_profi/assembly/LMR1405001-assembly_page_02.svg
+- doc/gen/LMR1405001-schematic.svg
+- doc/gen/img/LMR1405001-bottom.svg
+- doc/gen/img/LMR1405001-top.svg
 mark: 50
 mod_ibom: hw/cam_profi/LMR1405001-ibom.html
 mod_scheme: doc/gen/LMR1405001-schematic.pdf
@@ -19,4 +19,4 @@ status: 2
 tags:
 - dcdc-converter
 title: LMR1405001
-updated: '2024-05-31T00:40:06.997434+00:00'
+updated: '2024-07-15T00:41:42.579560+00:00'
