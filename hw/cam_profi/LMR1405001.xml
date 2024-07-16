@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/LMR1405001.kicad_sch</source>
-    <date>Fri May 31 00:39:14 2024</date>
-    <tool>Eeschema 7.0.11+1</tool>
+    <date>2024-07-16T00:42:02+0000</date>
+    <tool>Eeschema 8.0.3+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -27,213 +27,356 @@
     <comp ref="C1">
       <value>1u / 50V</value>
       <footprint>Capacitors_SMD:C_1210</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_SMD:C_1210</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a16ece0</tstamps>
     </comp>
     <comp ref="C2">
       <value>10u / 50V</value>
       <footprint>Capacitors_SMD:C_1210</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_SMD:C_1210</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a16ec9d</tstamps>
     </comp>
     <comp ref="C3">
       <value>10u / 50V</value>
       <footprint>Capacitors_SMD:C_1210</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_SMD:C_1210</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a16d82d</tstamps>
     </comp>
     <comp ref="C4">
       <value>22n</value>
       <footprint>Capacitors_SMD:C_0603</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_SMD:C_0603</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a16d7e2</tstamps>
     </comp>
     <comp ref="C5">
       <value>100n</value>
       <footprint>Capacitors_SMD:C_0603</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_SMD:C_0603</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a16d87c</tstamps>
     </comp>
     <comp ref="C6">
       <value>1u / 50V</value>
       <footprint>Capacitors_SMD:C_1210</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_SMD:C_1210</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a1706e0</tstamps>
     </comp>
     <comp ref="C7">
       <value>47u</value>
       <footprint>Capacitors_SMD:C_1210</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_SMD:C_1210</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a16d8bb</tstamps>
     </comp>
     <comp ref="C8">
       <value>47u</value>
       <footprint>Capacitors_SMD:C_1210</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_SMD:C_1210</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a16e626</tstamps>
     </comp>
     <comp ref="C9">
       <value>47u</value>
       <footprint>Capacitors_SMD:C_1210</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_SMD:C_1210</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a16e64b</tstamps>
     </comp>
     <comp ref="C10">
       <value>47u</value>
       <footprint>Capacitors_SMD:C_1210</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_SMD:C_1210</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a16e671</tstamps>
     </comp>
     <comp ref="D1">
       <value>STPS5L60</value>
       <footprint>Diodes_SMD:DO-214AB</footprint>
+      <fields>
+        <field name="Footprint">Diodes_SMD:DO-214AB</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="D" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
+      <property name="ki_fp_filters" value="TO-???* *SingleDiode *_Diode_* *SingleDiode* D_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a16d9ee</tstamps>
     </comp>
     <comp ref="J1">
       <value>CONN_01X01</value>
       <footprint>Mlab_CON:WAGO256_2</footprint>
+      <fields>
+        <field name="Footprint">Mlab_CON:WAGO256_2</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="CONN_01X01" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
+      <property name="ki_fp_filters" value="Pin_Header_Straight_1X* Pin_Header_Angled_1X* Socket_Strip_Straight_1X* Socket_Strip_Angled_1X*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a171c46</tstamps>
     </comp>
     <comp ref="J2">
       <value>CONN_01X01</value>
       <footprint>Mlab_CON:WAGO256_2</footprint>
+      <fields>
+        <field name="Footprint">Mlab_CON:WAGO256_2</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="CONN_01X01" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
+      <property name="ki_fp_filters" value="Pin_Header_Straight_1X* Pin_Header_Angled_1X* Socket_Strip_Straight_1X* Socket_Strip_Angled_1X*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a171e9a</tstamps>
     </comp>
     <comp ref="J3">
       <value>CONN_01X01</value>
       <footprint>Mounting_Holes:MountingHole_3.2mm_M3_Pad</footprint>
+      <fields>
+        <field name="Footprint">Mounting_Holes:MountingHole_3.2mm_M3_Pad</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="CONN_01X01" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
+      <property name="ki_fp_filters" value="Pin_Header_Straight_1X* Pin_Header_Angled_1X* Socket_Strip_Straight_1X* Socket_Strip_Angled_1X*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a17146e</tstamps>
     </comp>
     <comp ref="J4">
       <value>CONN_01X01</value>
       <footprint>Mounting_Holes:MountingHole_3.2mm_M3_Pad</footprint>
+      <fields>
+        <field name="Footprint">Mounting_Holes:MountingHole_3.2mm_M3_Pad</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="CONN_01X01" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
+      <property name="ki_fp_filters" value="Pin_Header_Straight_1X* Pin_Header_Angled_1X* Socket_Strip_Straight_1X* Socket_Strip_Angled_1X*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a171540</tstamps>
     </comp>
     <comp ref="J5">
       <value>CONN_01X01</value>
       <footprint>Mounting_Holes:MountingHole_3.2mm_M3_Pad</footprint>
+      <fields>
+        <field name="Footprint">Mounting_Holes:MountingHole_3.2mm_M3_Pad</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="CONN_01X01" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
+      <property name="ki_fp_filters" value="Pin_Header_Straight_1X* Pin_Header_Angled_1X* Socket_Strip_Straight_1X* Socket_Strip_Angled_1X*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a17157e</tstamps>
     </comp>
     <comp ref="J6">
       <value>CONN_01X01</value>
       <footprint>Mounting_Holes:MountingHole_3.2mm_M3_Pad</footprint>
+      <fields>
+        <field name="Footprint">Mounting_Holes:MountingHole_3.2mm_M3_Pad</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="CONN_01X01" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
+      <property name="ki_fp_filters" value="Pin_Header_Straight_1X* Pin_Header_Angled_1X* Socket_Strip_Straight_1X* Socket_Strip_Angled_1X*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a1715ba</tstamps>
     </comp>
     <comp ref="J7">
       <value>CONN_01X01</value>
       <footprint>Mlab_CON:WAGO256_2</footprint>
+      <fields>
+        <field name="Footprint">Mlab_CON:WAGO256_2</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="CONN_01X01" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
+      <property name="ki_fp_filters" value="Pin_Header_Straight_1X* Pin_Header_Angled_1X* Socket_Strip_Straight_1X* Socket_Strip_Angled_1X*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a172173</tstamps>
     </comp>
     <comp ref="J8">
       <value>CONN_01X01</value>
       <footprint>Mlab_CON:WAGO256_2</footprint>
+      <fields>
+        <field name="Footprint">Mlab_CON:WAGO256_2</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="CONN_01X01" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
+      <property name="ki_fp_filters" value="Pin_Header_Straight_1X* Pin_Header_Angled_1X* Socket_Strip_Straight_1X* Socket_Strip_Angled_1X*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a1722fa</tstamps>
     </comp>
     <comp ref="L1">
       <value>744770115</value>
       <footprint>Inductors:SELF-WE-PD-XXL</footprint>
+      <fields>
+        <field name="Footprint">Inductors:SELF-WE-PD-XXL</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="L" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a16d983</tstamps>
     </comp>
     <comp ref="R1">
       <value>20k</value>
       <footprint>Capacitors_SMD:C_0603</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_SMD:C_0603</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_* R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a16d8e6</tstamps>
     </comp>
     <comp ref="R2">
       <value>56k</value>
       <footprint>Capacitors_SMD:C_0603</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_SMD:C_0603</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_* R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a16d91f</tstamps>
     </comp>
     <comp ref="R3">
       <value>10k</value>
       <footprint>Capacitors_SMD:C_0603</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_SMD:C_0603</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_* R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a16d94e</tstamps>
     </comp>
     <comp ref="U1">
       <value>LMR14050</value>
       <footprint>Mlab_IO:HSOP-8</footprint>
+      <fields>
+        <field name="Footprint">Mlab_IO:HSOP-8</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="LMR1405001-rescue" part="LMR14050" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LMR1405001.kicad_sch"/>
@@ -249,6 +392,9 @@
       <fields>
         <field name="Reference">C</field>
         <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -265,6 +411,9 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">CONN_01X01</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="P1" type="passive"/>
@@ -281,6 +430,9 @@
       <fields>
         <field name="Reference">D</field>
         <field name="Value">D</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="K" type="passive"/>
@@ -297,6 +449,9 @@
       <fields>
         <field name="Reference">L</field>
         <field name="Value">L</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="1" type="passive"/>
@@ -307,6 +462,9 @@
       <fields>
         <field name="Reference">U</field>
         <field name="Value">LMR14050</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="BOOT" type="input"/>
@@ -328,6 +486,9 @@
       <fields>
         <field name="Reference">R</field>
         <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
